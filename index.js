@@ -1,5 +1,5 @@
 // Comments here!
  console.log('Hello World');
 
- let name;
+ let name = 'Mosh';
  console.log(name);
