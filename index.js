@@ -10,9 +10,16 @@
  //cannot contain a space or hyphen
  //are case sensitve
  
- let firstName = 'Nami';
+ let firstName = 'Shinju';
  let lastName = 'Pearl';
 
  let interestRate = 0.3;
  interestRate = 1;
  console.log(interestRate);
+
+ let name = 'Shinju'; //string literal
+ let age = 17; // number literal
+ let isApproved = true; //Boolean literal
+ let firstName; undefined;
+ let selectedColor = null;
+ 
